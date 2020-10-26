@@ -18,3 +18,4 @@ function eqPressed() {
     display.value = eval(display.value);
 }
 
+
